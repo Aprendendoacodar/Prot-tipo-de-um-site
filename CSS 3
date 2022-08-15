@@ -1,0 +1,91 @@
+/*seletor{propriedade:valor;}*/
+
+@import url('https://fonts.googleapis.com/css2? family= Roboto:ital,wght@0,100;1,300 & display=swap')
+
+
+*{margin:30px; padding:20px;
+ border:1px solid red ;	
+
+}
+
+header,img{
+	width:100%;
+	heigth:380px;
+}
+
+
+body{background-color:#E6E6FA;
+
+}
+
+nav{
+	background-color:#6495ED;
+	text-align:center;
+	padding:10px;
+
+
+}
+
+a{
+	color:#000000;
+	font:1.2rem Roboto,sans-serif;
+	text-decoration:none;
+	margin-right:67px ;
+}
+
+
+a:hover{
+	color:darkred;
+}
+
+
+article{
+        width:100%;
+        background-color:;
+        padding:20px;
+        box-sizing: border-box;
+}
+
+h1{font-family:Times New Roman,cursive;
+font-size:2.2rem;
+text-align:center ;	
+
+}
+
+P{font-family:Roboto,sans-serif;
+ font-size:20px ;
+ color:#363636;
+ text-align:justify;
+ text-indent:20px;
+ line-height: 40px;
+
+}
+
+section{
+	             
+}
+#pag-coleções{
+	background-color:#FFFACD ;
+
+}
+
+.img-tonsdeaconchego{
+	width:100px;
+	height:100%;
+	padding:20px;
+	box-sizing: border-box;
+
+}
+
+h2{font-family:Times New Roman,cursive;
+font-size:2.2rem;
+text-align:center ;
+
+}
+
+P{font-family:Roboto,sans-serif;
+ font-size:20px ;
+ color:#363636;
+ text-align:justify-all;
+ text-indent:20px;
+ line-height: 40px;
